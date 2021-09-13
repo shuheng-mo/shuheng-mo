@@ -29,5 +29,7 @@ Reach me by IC email: shuheng.mo21@imperial.ac.uk
 ## CI
 
 ## Other skills
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
 
 ## Repositories
