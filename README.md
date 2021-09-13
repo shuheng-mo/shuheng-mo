@@ -1,10 +1,18 @@
+# Mo's Github
 [![acse-90469b93's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-90469b93&theme=github_dark)](https://github.com/acse-90469b93/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-90469b93&layout=compact&theme=github_dark)](https://github.com/acse-90469b93/github-readme-stats)
 
 Greetings, I am Mo and I am thriving to get my master's degree of MSc ACSE 2021. 
 
 ## Contact
-Reach me by IC email: shuheng.mo21@imperial.ac.uk 
+- ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)   
+*shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)*  
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
+- ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)   
+- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)    
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)    
+- ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)    
+*w11470429*
 
 ## Programming Languages
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
@@ -54,3 +62,4 @@ Reach me by IC email: shuheng.mo21@imperial.ac.uk
 
 
 ## Repositories
+- [ACSE 2021 Presession Notes](https://github.com/acse-90469b93/presession2021.git) 
