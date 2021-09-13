@@ -1,10 +1,10 @@
-# Mo's Github
-[![acse-90469b93's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-90469b93&theme=github_dark)](https://github.com/acse-90469b93/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-90469b93&layout=compact&theme=github_dark)](https://github.com/acse-90469b93/github-readme-stats)
+# Mo's Profile Page
+[![acse-90469b93's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-90469b93&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-90469b93&layout=compact&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
 
-Greetings, I am Mo and I am thriving to get my master's degree of MSc ACSE 2021. 
+:wave: Greetings, I am **Mo** and I am thriving to get my master's degree of **MSc ACSE 2021**. 
 
-## Contact
+## :calling: Contact me
 - ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)   
 *shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)*  
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
@@ -14,7 +14,7 @@ Greetings, I am Mo and I am thriving to get my master's degree of MSc ACSE 2021.
 - ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)    
 *w11470429*
 
-## Programming Languages
+## :computer: Programming Languages
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -30,7 +30,7 @@ Greetings, I am Mo and I am thriving to get my master's degree of MSc ACSE 2021.
 ![](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
 
-## Frameworks / Toolkits
+## :books: Frameworks & Toolkits
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -48,18 +48,18 @@ Greetings, I am Mo and I am thriving to get my master's degree of MSc ACSE 2021.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-## Databases
+## :floppy_disk: Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
 
-## CI
+## :hammer_and_wrench: CI
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=plastc&logo=travis&logoColor=white)
 
-## Other skills
+## :interrobang: Extra skills
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-## Repositories
+## :link: Repositories
 - [ACSE 2021 Presession Notes](https://github.com/acse-90469b93/presession2021.git) 
