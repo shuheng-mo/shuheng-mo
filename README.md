@@ -5,7 +5,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=acse-90469b93&theme=react-dark">
 </p>
 
-:wave: Greetings, I am **Mo** and I am thriving to get my master's degree of **MSc ACSE 2021**. 
+:wave: Greetings, I am **Mo** (CID:2062892) and I am thriving to get my master's degree of **MSc ACSE 2021**. 
 
 <h2 align="center">
 :calling: Contact me
