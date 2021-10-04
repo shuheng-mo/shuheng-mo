@@ -1,4 +1,5 @@
 # Mo's Profile Page ![](https://komarev.com/ghpvc/?username=acse-90469b93&color=green)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mms7b6zfi4ymvey4q7yl63cbe&unique=true)    
 [![acse-90469b93's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-90469b93&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-90469b93&layout=compact&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
 <p align = "center">
