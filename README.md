@@ -86,6 +86,7 @@
 
 ##  :link: Repositories
 - [ACSE 2021 Presession Notes](https://github.com/acse-90469b93/presession2021.git)     
+- [Modern Programming Methods 2021](https://github.com/ese-msc-2021/introduction-to-python-acse-90469b93.git)
 
 
 ## :heartpulse: For Fun
