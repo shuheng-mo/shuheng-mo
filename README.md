@@ -11,14 +11,11 @@
 :calling: Contact me
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/> <br>
-  shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)  <br>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white"/> <br>
-w11470429    
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> <br>
+  <b>shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)</b>  <br><br>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <br>
+  <b>w11470429</b> <br><br>
+  :point_right:<a href="https://linktr.ee/shuheng_mo"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>:point_left:
 </div>
 
 <h2 align = "center"> 
