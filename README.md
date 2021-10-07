@@ -1,4 +1,4 @@
-# Mo's Profile Page ![](https://komarev.com/ghpvc/?username=acse-90469b93&color=green)
+# Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=acse-90469b93&color=green">
 [![acse-90469b93's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-90469b93&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-90469b93&layout=compact&theme=chartreuse-dark)](https://github.com/acse-90469b93/github-readme-stats)
 <p align = "center">
@@ -6,6 +6,7 @@
 </p>
 
 :wave: Greetings, I am **Mo** (CID:2062892) and I am thriving to get my master's degree of **MSc ACSE 2021**. 
+
 
 <h2 align="center">
 :calling: Contact me
@@ -85,10 +86,12 @@
 </div>
 
 ##  :link: Repositories
-- [ACSE 2021 Presession Notes](https://github.com/acse-90469b93/presession2021.git)     
+- [ACSE 2021 Session Notes](https://github.com/acse-90469b93/presession2021.git)     
 - [Modern Programming Methods 2021](https://github.com/ese-msc-2021/introduction-to-python-acse-90469b93.git)
 
 
-## :heartpulse: For Fun
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mms7b6zfi4ymvey4q7yl63cbe&unique=true)    
-
+## :heartpulse: For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=acse-90469b93&theme=gruvbox"/>
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=316mms7b6zfi4ymvey4q7yl63cbe&unique=true"/> <br>
+</p>
