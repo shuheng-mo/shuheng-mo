@@ -86,8 +86,8 @@
 </div>
 
 ##  :link: Repositories
-- [ACSE 2021 Session Notes](https://github.com/acse-sm321/presession2021.git)     
-- [Modern Programming Methods 2021](https://github.com/ese-msc-2021/introduction-to-python-acse-sm321.git)
+- [ACSE 2021 Session Notes](https://github.com/acse-sm321/notes2021.git)     
+- [Modern Programming Methods 2021](https://github.com/ese-msc-2021/modern-programming-methods)
 
 
 ## :heartpulse: For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
