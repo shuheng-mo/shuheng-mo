@@ -64,7 +64,6 @@
   :floppy_disk: Databases
 </h2>
 <div align = "center">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white"/>
@@ -87,7 +86,7 @@
 
 ##  :link: Repositories
 - [ACSE 2021 Session Notes](https://github.com/acse-sm321/notes2021.git)     
-- [Modern Programming Methods 2021](https://github.com/ese-msc-2021/modern-programming-methods)
+- 
 
 
 ## :heartpulse: For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
