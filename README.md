@@ -1,6 +1,6 @@
 # Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
-[![shuheng-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-sm321&theme=chartreuse-dark)](https://github.com/acse-sm321/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark)](https://github.com/acse-sm321/github-readme-stats)
+[![shuheng-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuheng-mo&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=shuheng-mo&theme=react-dark">
 </p>
