@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> <br>
   <b>shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)</b>  <br>
- shuheng_mo_mail@163.com
+  <b>shuheng_mo_mail@163.com</b>
  <br>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <br>
   <b>w11470429</b> <br><br>
