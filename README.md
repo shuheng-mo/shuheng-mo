@@ -92,7 +92,3 @@
 
 
 ## :heartpulse: For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=acse-sm321&theme=gruvbox"/>
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=316mms7b6zfi4ymvey4q7yl63cbe&unique=true"/> <br>
-</p>
