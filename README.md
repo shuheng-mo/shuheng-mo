@@ -25,9 +25,7 @@
 :computer: Programming Languages 
 </h2>
 <div align = "center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
@@ -41,7 +39,6 @@
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
@@ -49,8 +46,8 @@
   :floppy_disk: Databases
 </h2>
 <div align = "center">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white"/>
 </div>
   
@@ -65,7 +62,6 @@
   :interrobang: Extra skills
 </h2>
 <div align = "center">
-  <img src = "https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
 
