@@ -5,7 +5,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=shuheng-mo&theme=react-dark">
 </p> -->
 
-:wave: Greetings, I am **Mo** (CID:2062892) and I am thriving to get my master's degree of **MSc ACSE 2021**. 
+:wave: Greetings, I am **Mo**, a humble developer. 
 
 
 <h2 align="center">
@@ -13,7 +13,6 @@
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> <br>
-  <b>shuheng.mo21@imperial.ac.uk (sm321@ic.ac.uk)</b>  <br>
   <b>shuheng_mo_mail@163.com</b>
  <br>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <br>
@@ -26,6 +25,7 @@
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/nextjs-3670A0??style=plastic&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
