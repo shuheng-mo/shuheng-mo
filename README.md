@@ -17,7 +17,7 @@
  <br>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <br>
   <b>w11470429</b> <br><br>
-  :point_right:<a href="https://linktr.ee/shuheng_mo"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>:point_left:
+  :point_right:<a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>:point_left:
 </div>
 
 <h2 align = "center"> 
