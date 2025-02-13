@@ -4,8 +4,11 @@
 
 <!-- find badge examples here: https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-virtual-reality -->
 
-👋 Greetings, I am **Shuheng Mo**, a humble Indie Hacker. 
+👋 Greetings, I am **Shuheng Mo**, a passionate Indie Hacker and Full-Stack Developer. With a deep love for building innovative solutions, I specialize in Python, Go, C++, and modern web technologies. My journey in tech is driven by the belief that great software can make a meaningful impact.
 
+🚀 Currently focusing on high-performance backend systems and elegant frontend solutions. I'm always excited to collaborate on challenging projects and explore cutting-edge technologies. Whether it's crafting efficient algorithms or designing scalable architectures, I'm committed to writing code that matters.
+
+💡 Open source enthusiast, Indies are welcomed!
 
 <h2 align="center">
 📲 Contact me
@@ -18,6 +21,8 @@
 💻 Programming Languages 
 </h2>
 <div align = "center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/nextjs-3670A0??style=plastic&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
@@ -66,3 +71,8 @@
 
 
 ## 🤑 Funding me personally
+<div align="left">
+  <img src="https://img.shields.io/badge/Alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white"/>
+  <a href="https://www.buymeacoffee.com/moshuheng"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/></a>
+</div>
