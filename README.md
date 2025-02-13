@@ -1,27 +1,21 @@
 # Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
 [![shuheng-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuheng-mo&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
-<!-- <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=shuheng-mo&theme=react-dark">
-</p> -->
 
-:wave: Greetings, I am **Mo**, a humble developer. 
+<!-- find badge examples here: https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-virtual-reality -->
+
+👋 Greetings, I am **Shuheng Mo**, a humble Indie Hacker. 
 
 
 <h2 align="center">
-:calling: Contact me
+📲 Contact me
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> <br>
-  <b>shuheng_mo_mail@163.com</b>
- <br>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <br>
-  <b>w11470429</b> <br><br>
-  :point_right:<a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>:point_left:
+  👉 <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a> 👈
 </div>
 
 <h2 align = "center"> 
-:computer: Programming Languages 
+💻 Programming Languages 
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
@@ -35,7 +29,7 @@
 </div>
 
 <h2 align = "center"> 
-  :books: Frameworks & Toolkits
+  📔 Frameworks & Toolkits
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -43,7 +37,7 @@
 </div>
 
 <h2 align = "center">
-  :floppy_disk: Databases
+  💾 Databases
 </h2>
 <div align = "center">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
@@ -52,21 +46,23 @@
 </div>
   
 <h2 align = "center">
-  :hammer_and_wrench: CI
+  🛠️ CI
 </h2>
 <div align = "center">
   <img src = "https://img.shields.io/badge/travisci-%232B2F33.svg?style=plastc&logo=travis&logoColor=white"/>
 </div>
 
 <h2 align = "center">
-  :interrobang: Extra skills
+  ⁉️ Extra skills
 </h2>
 <div align = "center">
-  <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
 
-##  :link: Highlight Repositories
+##  🔗 Highlight Repositories
 - 
 
 
-## :heartpulse: For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
+## ⚱️ For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
+
+
+## 🤑 Funding me personally
