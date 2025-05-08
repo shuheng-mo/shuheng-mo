@@ -1,4 +1,5 @@
 # Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
+
 [![shuheng-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuheng-mo&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
 
@@ -17,8 +18,8 @@
   👉 <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a> 👈
 </div>
 
-<h2 align = "center"> 
-💻 Programming Languages 
+<h2 align = "center">
+💻 Programming Languages
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
@@ -33,11 +34,12 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
 </div>
 
-<h2 align = "center"> 
+<h2 align = "center">
   📔 Frameworks & Toolkits
 </h2>
 <div align = "center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
@@ -51,7 +53,7 @@
 </div>
   
 <h2 align = "center">
-  🛠️ CI
+  🛠️ DevOps
 </h2>
 <div align = "center">
   <img src = "https://img.shields.io/badge/travisci-%232B2F33.svg?style=plastc&logo=travis&logoColor=white"/>
@@ -63,14 +65,23 @@
 <div align = "center">
 </div>
 
-##  🔗 Highlight Repositories
-- 
+<h2 align = "center">
+  🤖 AI
+</h2>
+<div align = "center">
+  <img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-%23FF4F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoGen-%23121011.svg?style=for-the-badge&logo=autogen&logoColor=white"/>
+</div>
 
+## 🔗 Highlight Repositories
+
+-
 
 ## ⚱️ For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
 
-
 ## 🤑 Funding me personally
+
 <div align="left">
   <img src="https://img.shields.io/badge/Alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white"/>
   <a href="https://www.buymeacoffee.com/moshuheng"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
