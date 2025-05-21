@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/nextjs-3670A0??style=plastic&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
@@ -40,6 +39,7 @@
 <div align = "center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
@@ -60,25 +60,46 @@
 </div>
 
 <h2 align = "center">
-  ⁉️ Extra skills
+  ☁️ Cloud Native
 </h2>
 <div align = "center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</div>
+
+<h2 align = "center">
+  🏗️ System Architecture
+</h2>
+<div align = "center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <h2 align = "center">
   🤖 AI
 </h2>
 <div align = "center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-%23FF4F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoGen-%23121011.svg?style=for-the-badge&logo=autogen&logoColor=white"/>
 </div>
 
+## ⁉️ Extra
+### Certificates
+- [Coursera](https://www.coursera.org/)
+  - [IBM Data Science](https://coursera.org/share/30e6ab3923f8fc7980cbd3a40d9b18d7)
+- [Scrimba](https://scrimba.com)
+  - [AI Engineer Path](https://scrimba.com/certificate-cert2JbLs3qgBCE7tyaqb3pbhTUTw96yGXMg786pmQ)
+
+### Awards
+- [Kaggle](https://www.kaggle.com/)
+  - [OTTO – Multi-Objective Recommender System 🥈](https://www.kaggle.com/certification/competitions/shuhengmo/otto-recommender-system)
+
 ## 🔗 Highlight Repositories
 
 -
-
-## ⚱️ For Fun   <a href="https://studygolang.com/pkgdoc"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" wdith=80 height=36></a>
 
 ## 🤑 Funding me personally
 
