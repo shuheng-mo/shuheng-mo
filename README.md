@@ -121,12 +121,35 @@
 
 ## 🔗 Highlight Repositories
 
--
+- [QD Study Plan 104 Week](https://github.com/shuheng-mo/qd-study-plan-104wk): A comprehensive 104-week study plan for Quantitative Development.
 
-## 🤑 Funding me personally
+<!-- ## 💝 Support My Work
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white"/>
-  <a href="https://www.buymeacoffee.com/moshuheng"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/></a>
-</div>
+<div align="center">
+  
+  > *If you find my work valuable, consider supporting me! Every contribution helps me continue creating amazing projects.*
+  
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://www.buymeacoffee.com/moshuheng">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+        </a>
+        <br><sub><b>☕ Buy me a coffee</b></sub>
+      </td>
+      <td align="center" width="200px">
+        <img src="https://img.shields.io/badge/💙_支付宝-00A1E9?style=flat-square&labelColor=1677FF" width="160" height="40"/>
+        <br><sub><b>🇨🇳 Alipay</b></sub>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://stripe.com/">
+          <img src="https://img.shields.io/badge/💳_Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" width="160" height="40"/>
+        </a>
+        <br><sub><b>💳 Credit Card</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <p><em>✨ Your support means the world to me! ✨</em></p>
+  
+</div> -->
