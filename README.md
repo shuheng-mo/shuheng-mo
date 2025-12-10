@@ -1,6 +1,6 @@
 # Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shuheng-mo&theme=algolia&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuheng-mo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![shuheng-mo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
