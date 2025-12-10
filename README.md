@@ -1,7 +1,8 @@
 # Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
 
-[![shuheng-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuheng-mo&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark)](https://github.com/shuheng-mo/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shuheng-mo&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![shuheng-mo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- find badge examples here: https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-virtual-reality -->
 
@@ -102,6 +103,7 @@
 </div>
 
 ## ⁉️ Extra
+
 ### Certificates
 <!-- - [Ministry of Industry and Information Technology of the People's Republic of China](https://www.miit.gov.cn/)  -->
 - [Coursera](https://www.coursera.org/)
@@ -113,6 +115,7 @@
   -->
 
 ### Awards
+
 - [Kaggle](https://www.kaggle.com/)
   - [OTTO – Multi-Objective Recommender System 🥈](https://www.kaggle.com/certification/competitions/shuhengmo/otto-recommender-system)
 
