@@ -1,155 +1,77 @@
-# Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
+# Hi there, I'm Shuheng Mo 👋
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuheng-mo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![shuheng-mo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <strong>Indie Hacker</strong> & <strong>Full-Stack Developer</strong> building products that matter.
+</p>
 
-<!-- find badge examples here: https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-virtual-reality -->
+<p>
+  <a href="https://linktr.ee/mo_shuheng">
+    <img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green" alt="Profile Views"/>
+</p>
 
-👋 Greetings, I am **Shuheng Mo**, a passionate Indie Hacker and Full-Stack Developer. With a deep love for building innovative solutions, I specialize in Python, C++,JavaScript and modern web technologies. My journey in tech is driven by the belief that great software can make a meaningful impact on the real life.
+---
 
-🚀 Currently focusing on high-performance backend systems and elegant frontend solutions. I'm always excited to collaborate on challenging projects and explore cutting-edge technologies. Whether it's crafting efficient algorithms or designing scalable architectures, I'm committed to writing code that matters.
+## 📊 GitHub Stats
 
-💡 Open source enthusiast, Indies are welcomed!
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+</p>
 
-<h2 align="center">
-📲 Contact me
-</h2>
-<div align="center">
-  👉 <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a> 👈
-</div>
+---
 
-<h2 align = "center">
-💻 Programming Languages
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=plastic&logo=JavaScript&labelColor=f7df1e&logoColor=000"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
-</div>
+## 🛠️ Tech Stack
 
-<h2 align = "center">
-  📔 Frameworks & Toolkits
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<h2 align = "center">
-  💾 Databases
-</h2>
-<div align = "center">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
-</div>
-  
-<h2 align = "center">
-  🛠️ DevOps
-</h2>
-<div align = "center">
-  <img src = "https://img.shields.io/badge/travisci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white"/>
-</div>
+### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<h2 align = "center">
-  ☁️ Cloud
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</div>
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<h2 align = "center">
-  🏗️ System Architecture
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C8EBB?style=flat-square&logo=langchain&logoColor=white)
 
-<h2 align = "center">
-  🤖 AI
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-%23FF4F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoGen-%23121011.svg?style=for-the-badge&logo=autogen&logoColor=white"/>
-</div>
+---
 
-<h2 align = "center">
-  ₿ Web 3.0
-</h2>
-<div align = "center">
+## 🏆 Featured Projects
 
-</div>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [QD Study Plan 104 Week](https://github.com/shuheng-mo/qd-study-plan-104wk) | 104周量化开发学习计划 | - |
+| *Your next project here* | - | - |
 
-## ⁉️ Extra
+---
 
-### Certificates
-<!-- - [Ministry of Industry and Information Technology of the People's Republic of China](https://www.miit.gov.cn/)  -->
-- [Coursera](https://www.coursera.org/)
-  - [IBM Data Science](https://coursera.org/share/30e6ab3923f8fc7980cbd3a40d9b18d7)
-- [Scrimba](https://scrimba.com)
-  - [AI Engineer Path](https://scrimba.com/certificate-cert2JbLs3qgBCE7tyaqb3pbhTUTw96yGXMg786pmQ)
-  <!-- - [Advanced JavaScript]()
-  - [Advanced React]()  
-  -->
+## 📜 Certificates
 
-### Awards
+- **IBM Data Science** - [Coursera](https://coursera.org/share/30e6ab3923f8fc7980cbd3a40d9b18d7)
+- **AI Engineer Path** - [Scrimba](https://scrimba.com/certificate-cert2JbLs3qgBCE7tyaqb3pbhTUTw96yGXMg786pmQ)
 
-- [Kaggle](https://www.kaggle.com/)
-  - [OTTO – Multi-Objective Recommender System 🥈](https://www.kaggle.com/certification/competitions/shuhengmo/otto-recommender-system)
+---
 
-## 🔗 Highlight Repositories
+## 🥈 Competition Awards
 
-- [QD Study Plan 104 Week](https://github.com/shuheng-mo/qd-study-plan-104wk): A comprehensive 104-week study plan for Quantitative Development.
+- [OTTO – Multi-Objective Recommender System 🥈](https://www.kaggle.com/certification/competitions/shuheng-mo/otto-recommender-system)
 
-<!-- ## 💝 Support My Work
+---
 
-<div align="center">
-  
-  > *If you find my work valuable, consider supporting me! Every contribution helps me continue creating amazing projects.*
-  
-  <table>
-    <tr>
-      <td align="center" width="200px">
-        <a href="https://www.buymeacoffee.com/moshuheng">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
-        </a>
-        <br><sub><b>☕ Buy me a coffee</b></sub>
-      </td>
-      <td align="center" width="200px">
-        <img src="https://img.shields.io/badge/💙_支付宝-00A1E9?style=flat-square&labelColor=1677FF" width="160" height="40"/>
-        <br><sub><b>🇨🇳 Alipay</b></sub>
-      </td>
-      <td align="center" width="200px">
-        <a href="https://stripe.com/">
-          <img src="https://img.shields.io/badge/💳_Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" width="160" height="40"/>
-        </a>
-        <br><sub><b>💳 Credit Card</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-  <p><em>✨ Your support means the world to me! ✨</em></p>
-  
-</div> -->
+<p align="center">
+  <em>Open to collaboration on interesting projects. Let's build something great together!</em>
+</p>
