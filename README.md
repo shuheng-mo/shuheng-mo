@@ -1,155 +1,75 @@
-# Mo's Profile Page <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=green">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuheng-mo&theme=github-compact&hide_border=true&bg_color=0d1117&color=7170ff&line=5e6ad2&point=7170ff&area=true&area_color=7170ff20" width="100%"/>
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuheng-mo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![shuheng-mo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-<!-- find badge examples here: https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-virtual-reality -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=7170FF&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Shuheng+Mo;Indie+Hacker+%C2%B7+Full-Stack+Engineer" alt="Typing SVG"/>
+</p>
 
-👋 Greetings, I am **Shuheng Mo**, a passionate Indie Hacker and Full-Stack Developer. With a deep love for building innovative solutions, I specialize in Python, C++,JavaScript and modern web technologies. My journey in tech is driven by the belief that great software can make a meaningful impact on the real life.
+<p align="center">
+  <code>build things that matter</code>
+</p>
 
-🚀 Currently focusing on high-performance backend systems and elegant frontend solutions. I'm always excited to collaborate on challenging projects and explore cutting-edge technologies. Whether it's crafting efficient algorithms or designing scalable architectures, I'm committed to writing code that matters.
+<br>
 
-💡 Open source enthusiast, Indies are welcomed!
+<!-- Bio -->
+I build high-performance backend systems and elegant frontend solutions. Currently deep in **LLM orchestration**, **distributed systems**, and **developer tooling**. Open source enthusiast — Indies are always welcome.
 
-<h2 align="center">
-📲 Contact me
-</h2>
-<div align="center">
-  👉 <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a> 👈
-</div>
+<br>
 
-<h2 align = "center">
-💻 Programming Languages
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=plastic&logo=JavaScript&labelColor=f7df1e&logoColor=000"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
-</div>
+<!-- Status line -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Shenzhen-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM3MTcwZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTBjMCA3LTkgMTMtOSAxM3MtOS02LTktMTNhOSA5IDAgMCAxIDE4IDB6Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMCIgcj0iMyIvPjwvc3ZnPg==&logoColor=7170ff&cacheSeconds=3600" />&nbsp;
+  <img src="https://img.shields.io/badge/-Indie-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM3MTcwZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTlsLTIuODQtMi44NE0yMCAyMWwtMi44NC0yLjg0TTE0IDBsMSA0IDQgMS00IDEtMSA0LTEtNC00LTEgNC0xeiIvPjwvc3ZnPg==&logoColor=7170ff&cacheSeconds=3600" />&nbsp;
+  <img src="https://img.shields.io/badge/-2.1k+_contribs_'26-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM3MTcwZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIi8+PC9zdmc+&logoColor=7170ff&cacheSeconds=3600" />
+</p>
 
-<h2 align = "center">
-  📔 Frameworks & Toolkits
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+<br>
 
-<h2 align = "center">
-  💾 Databases
-</h2>
-<div align = "center">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
-</div>
-  
-<h2 align = "center">
-  🛠️ DevOps
-</h2>
-<div align = "center">
-  <img src = "https://img.shields.io/badge/travisci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white"/>
-</div>
+<!-- Tech Stack -->
+**`stack`**
 
-<h2 align = "center">
-  ☁️ Cloud
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</div>
+<p align="left">
+  <code>Python</code>&nbsp;· <code>C++</code>&nbsp;· <code>Go</code>&nbsp;· <code>TypeScript</code>&nbsp;· <code>JavaScript</code>&nbsp;· <code>Django</code>&nbsp;· <code>FastAPI</code>&nbsp;· <code>Next.js</code>&nbsp;· <code>React</code>&nbsp;· <code>Node</code>&nbsp;· <code>PyTorch</code>&nbsp;· <code>TensorFlow</code>&nbsp;· <code>Docker</code>&nbsp;· <code>K8s</code>
+</p>
 
-<h2 align = "center">
-  🏗️ System Architecture
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+<br>
 
-<h2 align = "center">
-  🤖 AI
-</h2>
-<div align = "center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-%23FF4F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoGen-%23121011.svg?style=for-the-badge&logo=autogen&logoColor=white"/>
-</div>
+<!-- Stats -->
+**`github pulse`**
 
-<h2 align = "center">
-  ₿ Web 3.0
-</h2>
-<div align = "center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&icon_color=7170ff&ring_color=7170ff&bg_color=0d111700&count_private=true&hide_title=true" height="120"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&bg_color=0d111700&langs_count=6" height="120"/>
+</p>
 
-</div>
+<br>
 
-## ⁉️ Extra
+<!-- Featured Projects -->
+**`featured work`**
 
-### Certificates
-<!-- - [Ministry of Industry and Information Technology of the People's Republic of China](https://www.miit.gov.cn/)  -->
-- [Coursera](https://www.coursera.org/)
-  - [IBM Data Science](https://coursera.org/share/30e6ab3923f8fc7980cbd3a40d9b18d7)
-- [Scrimba](https://scrimba.com)
-  - [AI Engineer Path](https://scrimba.com/certificate-cert2JbLs3qgBCE7tyaqb3pbhTUTw96yGXMg786pmQ)
-  <!-- - [Advanced JavaScript]()
-  - [Advanced React]()  
-  -->
+|  |  |
+|---|---|
+| **xore** | Quantitative development toolkit — backtesting, risk modeling, and execution engine. `Python` ★ 48 |
+| **Elytra** | High-performance event-driven framework for real-time data pipelines. `C++` ★ 32 |
+| **NotionNext** | Self-hosted Notion-powered blog engine with Vercel deployment. `TypeScript` ★ 156 |
+| **Crucible Interviewer** | AI-powered technical interview simulator with real-time feedback. `Python` ★ 21 |
+| **mo-rsshub** | RSSHub deployment — custom instance for curated content feeds. `TypeScript` |
 
-### Awards
+<br>
 
-- [Kaggle](https://www.kaggle.com/)
-  - [OTTO – Multi-Objective Recommender System 🥈](https://www.kaggle.com/certification/competitions/shuhengmo/otto-recommender-system)
+<!-- Contact -->
+<p align="center">
+  <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/linktree-7170ff?style=flat-square&logo=linktree&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/shuheng-mo"><img src="https://img.shields.io/badge/github-7170ff?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/email-7170ff?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-7170ff?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
-## 🔗 Highlight Repositories
+<br>
 
-- [QD Study Plan 104 Week](https://github.com/shuheng-mo/qd-study-plan-104wk): A comprehensive 104-week study plan for Quantitative Development.
-
-<!-- ## 💝 Support My Work
-
-<div align="center">
-  
-  > *If you find my work valuable, consider supporting me! Every contribution helps me continue creating amazing projects.*
-  
-  <table>
-    <tr>
-      <td align="center" width="200px">
-        <a href="https://www.buymeacoffee.com/moshuheng">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
-        </a>
-        <br><sub><b>☕ Buy me a coffee</b></sub>
-      </td>
-      <td align="center" width="200px">
-        <img src="https://img.shields.io/badge/💙_支付宝-00A1E9?style=flat-square&labelColor=1677FF" width="160" height="40"/>
-        <br><sub><b>🇨🇳 Alipay</b></sub>
-      </td>
-      <td align="center" width="200px">
-        <a href="https://stripe.com/">
-          <img src="https://img.shields.io/badge/💳_Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" width="160" height="40"/>
-        </a>
-        <br><sub><b>💳 Credit Card</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-  <p><em>✨ Your support means the world to me! ✨</em></p>
-  
-</div> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shuheng-mo&color=7170ff&style=flat-square&label=views" />
+</p>
