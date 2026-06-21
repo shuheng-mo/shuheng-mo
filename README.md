@@ -12,6 +12,10 @@
 
 A humble indie maker, geek, and AI Engineer. Driven by the goal of kicking off my own company 🚀. Appreciate any kind of cooperation or communication.
 
+<p align="center">
+  <a href="https://shuheng-mo.com"><img src="https://img.shields.io/badge/shuheng--mo.com-7170ff?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
 <br>
 
 <!-- Status line -->
@@ -39,7 +43,6 @@ A humble indie maker, geek, and AI Engineer. Driven by the goal of kicking off m
 | 32 | **[career-ops-china](https://github.com/shuheng-mo/career-ops-china)** | AI-powered job search system built on Claude Code. For China mainland. |
 | 22 | **[qd-study-plan-104wk](https://github.com/shuheng-mo/qd-study-plan-104wk)** | Path to a qualified quant developer in 104 weeks — just for fun 🤣 |
 | 2 | **[VeloQ](https://github.com/shuheng-mo/VeloQ)** | High-performance C++ market data middleware for Python quant frameworks. |
-| 1 | **[NotionNext](https://github.com/shuheng-mo/NotionNext)** | Self-hosted Notion-powered blog ([fork](https://github.com/tangly1024/NotionNext)). |
 | 0 | **[xore](https://github.com/shuheng-mo/xore)** | Local one-stop search-processing tool for data engineers & AI agents. `Rust` |
 | 0 | **[Elytra](https://github.com/shuheng-mo/Elytra)** | Agentic SQL generation over layered data warehouses. `Python` |
 
