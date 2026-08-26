@@ -29,7 +29,7 @@
 
 <!-- 4. Contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuheng-mo&theme=github-compact&hide_border=true&bg_color=0d1117&color=7170ff&line=5e6ad2&point=7170ff&area=true&area_color=7170ff20" width="100%"/>
+  <img src="https://github-readme-activity-graph-jade-omega.vercel.app/graph?username=shuheng-mo&theme=github-compact&hide_border=true&bg_color=0d1117&color=7170ff&line=5e6ad2&point=7170ff&area=true&area_color=7170ff20" width="100%"/>
 </p>
 
 <br>
