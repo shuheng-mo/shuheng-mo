@@ -36,8 +36,8 @@
 
 <!-- 5. Stats dashboard (original size, side by side) -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuheng-mo&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&icon_color=7170ff&ring_color=7170ff&bg_color=0d111700&count_private=true&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&bg_color=0d111700&langs_count=6" height="140"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shuheng-mo&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&icon_color=7170ff&ring_color=7170ff&bg_color=0d111700&count_private=true&hide_title=true" height="140"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shuheng-mo&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=7170ff&bg_color=0d111700&langs_count=6" height="140"/>
 </p>
 
 <br>
