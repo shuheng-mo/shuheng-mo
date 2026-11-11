@@ -7,7 +7,7 @@
 
 <!-- 2. Badges -->
 <p align="center">
-  <a href="https://shuheng-mo.com"><img src="https://img.shields.io/badge/shuheng--mo.com-7170FF?style=flat&logo=vercel&logoColor=white" alt="Personal site" height="34"/></a>
+  <a href="https://shuheng-mo.com"><img src="https://img.shields.io/badge/shuheng--mo.com-7170FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal site"/></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/contact-Linktree-43E660?style=flat&logo=linktree&logoColor=white" alt="Contact me on Linktree" height="34"/></a>
+  <a href="https://linktr.ee/mo_shuheng"><img src="https://img.shields.io/badge/CONTACT-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Contact me on Linktree"/></a>
 </p>
 
 <br>
